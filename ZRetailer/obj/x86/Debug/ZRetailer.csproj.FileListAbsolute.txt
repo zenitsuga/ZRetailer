@@ -1,0 +1,10 @@
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\bin\Debug\Settings.ini
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\bin\Debug\ZRetailer.exe.config
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\bin\Debug\ZRetailer.exe
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\bin\Debug\ZRetailer.pdb
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.Form1.resources
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.Properties.Resources.resources
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.Screens.FrmRegistrationNotice.resources
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.csproj.GenerateResource.Cache
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.exe
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.pdb

@@ -1,0 +1,6 @@
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\WS_ZRetailer\bin\WebServices.asmx
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\WS_ZRetailer\bin\WebServices.asmx.cs
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\WS_ZRetailer\bin\WS_ZRetailer.dll
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\WS_ZRetailer\bin\WS_ZRetailer.pdb
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\WS_ZRetailer\obj\Debug\WS_ZRetailer.dll
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\WS_ZRetailer\obj\Debug\WS_ZRetailer.pdb

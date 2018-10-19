@@ -1,0 +1,4 @@
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\Licensing\bin\Debug\Licensing.dll
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\Licensing\bin\Debug\Licensing.pdb
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\Licensing\obj\Debug\Licensing.dll
+c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\Licensing\obj\Debug\Licensing.pdb
