@@ -1,0 +1,21 @@
+C:\Users\bok\Documents\Visual Studio 2010\Projects\ZRetailer\ZPOS\obj\x86\Debug\ZPOS.Form1.resources
+C:\Users\bok\Documents\Visual Studio 2010\Projects\ZRetailer\ZPOS\obj\x86\Debug\ZPOS.Properties.Resources.resources
+C:\Users\bok\Documents\Visual Studio 2010\Projects\ZRetailer\ZPOS\obj\x86\Debug\ZPOS.csproj.GenerateResource.Cache
+C:\Users\bok\Documents\Visual Studio 2010\Projects\ZRetailer\ZPOS\bin\Debug\ZPOS.exe
+C:\Users\bok\Documents\Visual Studio 2010\Projects\ZRetailer\ZPOS\bin\Debug\ZPOS.pdb
+C:\Users\bok\Documents\Visual Studio 2010\Projects\ZRetailer\ZPOS\obj\x86\Debug\ZPOS.exe
+C:\Users\bok\Documents\Visual Studio 2010\Projects\ZRetailer\ZPOS\obj\x86\Debug\ZPOS.pdb
+C:\Users\bok\Documents\Visual Studio 2010\Projects\ZRetailer\ZPOS\bin\Debug\Settings.ini
+C:\Users\bok\Documents\Visual Studio 2010\Projects\ZRetailer\ZPOS\obj\x86\Debug\ZPOS.Screens.Settings.resources
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZPOS\bin\Debug\Settings.ini
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZPOS\bin\Debug\ZPOS.exe
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZPOS\bin\Debug\ZPOS.pdb
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZPOS\bin\Debug\Licensing.dll
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZPOS\bin\Debug\Licensing.pdb
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZPOS\obj\x86\Debug\ZPOS.csprojResolveAssemblyReference.cache
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZPOS\obj\x86\Debug\ZPOS.Form1.resources
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZPOS\obj\x86\Debug\ZPOS.Properties.Resources.resources
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZPOS\obj\x86\Debug\ZPOS.Screens.Settings.resources
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZPOS\obj\x86\Debug\ZPOS.csproj.GenerateResource.Cache
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZPOS\obj\x86\Debug\ZPOS.exe
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZPOS\obj\x86\Debug\ZPOS.pdb

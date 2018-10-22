@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Licensing", "Licensing\Lice
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseGenerator", "LicenseGenerator\LicenseGenerator.csproj", "{09929DF6-BC88-47F1-ADBF-25D25367705B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPOS", "ZPOS\ZPOS.csproj", "{E6106D5C-742D-4CC6-853F-3472C1827A1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,16 @@ Global
 		{09929DF6-BC88-47F1-ADBF-25D25367705B}.Release|Mixed Platforms.Build.0 = Release|x86
 		{09929DF6-BC88-47F1-ADBF-25D25367705B}.Release|x86.ActiveCfg = Release|x86
 		{09929DF6-BC88-47F1-ADBF-25D25367705B}.Release|x86.Build.0 = Release|x86
+		{E6106D5C-742D-4CC6-853F-3472C1827A1A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E6106D5C-742D-4CC6-853F-3472C1827A1A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E6106D5C-742D-4CC6-853F-3472C1827A1A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E6106D5C-742D-4CC6-853F-3472C1827A1A}.Debug|x86.ActiveCfg = Debug|x86
+		{E6106D5C-742D-4CC6-853F-3472C1827A1A}.Debug|x86.Build.0 = Debug|x86
+		{E6106D5C-742D-4CC6-853F-3472C1827A1A}.Release|Any CPU.ActiveCfg = Release|x86
+		{E6106D5C-742D-4CC6-853F-3472C1827A1A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E6106D5C-742D-4CC6-853F-3472C1827A1A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E6106D5C-742D-4CC6-853F-3472C1827A1A}.Release|x86.ActiveCfg = Release|x86
+		{E6106D5C-742D-4CC6-853F-3472C1827A1A}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

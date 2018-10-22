@@ -8,3 +8,13 @@ c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\obj\x86\D
 c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.csproj.GenerateResource.Cache
 c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.exe
 c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.pdb
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZRetailer\bin\Debug\Settings.ini
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZRetailer\bin\Debug\ZRetailer.exe.config
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZRetailer\bin\Debug\ZRetailer.exe
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZRetailer\bin\Debug\ZRetailer.pdb
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.Form1.resources
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.Properties.Resources.resources
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.Screens.FrmRegistrationNotice.resources
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.csproj.GenerateResource.Cache
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.exe
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\ZRetailer\obj\x86\Debug\ZRetailer.pdb

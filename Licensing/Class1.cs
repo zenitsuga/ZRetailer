@@ -8,6 +8,11 @@ namespace Licensing
 {
     public class CryptoEngine
     {
+        public static string Key()
+        {
+            return "zbln-3asd-sqoy19";
+        }
+
         public static string Encrypt(string input, string key)
         {
             byte[] inputArray = UTF8Encoding.UTF8.GetBytes(input);

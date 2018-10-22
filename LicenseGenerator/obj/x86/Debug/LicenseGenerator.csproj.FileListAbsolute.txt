@@ -8,3 +8,13 @@ c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\LicenseGenerator\ob
 c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\LicenseGenerator\obj\x86\Debug\LicenseGenerator.csproj.GenerateResource.Cache
 c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\LicenseGenerator\obj\x86\Debug\LicenseGenerator.exe
 c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\LicenseGenerator\obj\x86\Debug\LicenseGenerator.pdb
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\LicenseGenerator\bin\Debug\LicenseGenerator.exe
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\LicenseGenerator\bin\Debug\LicenseGenerator.pdb
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\LicenseGenerator\bin\Debug\Licensing.dll
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\LicenseGenerator\bin\Debug\Licensing.pdb
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\LicenseGenerator\obj\x86\Debug\LicenseGenerator.csprojResolveAssemblyReference.cache
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\LicenseGenerator\obj\x86\Debug\LicenseGenerator.Form1.resources
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\LicenseGenerator\obj\x86\Debug\LicenseGenerator.Properties.Resources.resources
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\LicenseGenerator\obj\x86\Debug\LicenseGenerator.csproj.GenerateResource.Cache
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\LicenseGenerator\obj\x86\Debug\LicenseGenerator.exe
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\LicenseGenerator\obj\x86\Debug\LicenseGenerator.pdb

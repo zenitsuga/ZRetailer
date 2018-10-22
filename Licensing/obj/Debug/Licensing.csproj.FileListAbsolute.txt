@@ -2,3 +2,7 @@ c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\Licensing\bin\Debug
 c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\Licensing\bin\Debug\Licensing.pdb
 c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\Licensing\obj\Debug\Licensing.dll
 c:\users\bok\documents\visual studio 2010\Projects\ZRetailer\Licensing\obj\Debug\Licensing.pdb
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\Licensing\bin\Debug\Licensing.dll
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\Licensing\bin\Debug\Licensing.pdb
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\Licensing\obj\Debug\Licensing.dll
+E:\ZENITSUGA FILES\ZSystem\ZRetailer\Licensing\obj\Debug\Licensing.pdb
