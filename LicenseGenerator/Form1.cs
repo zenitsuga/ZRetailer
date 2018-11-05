@@ -10,9 +10,7 @@ using System.Windows.Forms;
 namespace LicenseGenerator
 {
     public partial class Form1 : Form
-    {
-        string Keys = "zbln-3asd-sqoy19"; 
-
+    {   
         public Form1()
         {
             InitializeComponent();
@@ -37,6 +35,7 @@ namespace LicenseGenerator
                 textBox1.Focus();
                 return;
             }
+            string Keys = Licensing.CryptoEngine.Key().ToString();
             textBox3.Text = Licensing.CryptoEngine.Encrypt(textBox1.Text, Keys);
         }
 
@@ -48,6 +47,7 @@ namespace LicenseGenerator
                 textBox2.Focus();
                 return;
             }
+            string Keys = Licensing.CryptoEngine.Key().ToString();
             textBox3.Text = Licensing.CryptoEngine.Decrypt(textBox2.Text, Keys);
         }
     }

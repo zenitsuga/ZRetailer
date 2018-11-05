@@ -1,0 +1,4 @@
+﻿[Readme]
+Please put all item image on this folder.
+Set the Path using this format
+[SupplierName\ProductName\CategoryName\ProductCode.jpg]
